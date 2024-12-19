@@ -1,0 +1,9 @@
+{
+	"modUrl": "https://github.com/1",
+	"author": "1",
+	"constants": {
+		"maxXPfromBarbarians": 10000,
+		"minimalCityDistance": 1,
+        "minimalCityDistanceOnDifferentContinents": 1
+	}
+}
