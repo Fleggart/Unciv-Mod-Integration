@@ -7,3 +7,5 @@ Ice Breaker
 More Luxuries
 
 Barbarian XP Farm
+
+Closer Cities Distance of 1
