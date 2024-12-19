@@ -1,6 +1,6 @@
 {
 	"modUrl": "https://github.com/frygttt/Unciv-Mod-Integration",
-	"author": "frygttt",
+	"author": "Flaggette",
 	"constants": {
 		"maxXPfromBarbarians": 10000,
 		"minimalCityDistance": 1,
