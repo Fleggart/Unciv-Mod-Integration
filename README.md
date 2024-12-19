@@ -5,3 +5,5 @@ contains these mod:
 Ice Breaker
 
 More Luxuries
+
+Barbarian XP Farm
