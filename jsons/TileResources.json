@@ -76,7 +76,6 @@
 		"improvement": "Plantation",
 		"improvementStats": { "gold": 1 }
 	},
-	// Unique res
 	{
 		"name": "Glass",
 		"resourceType": "Luxury",
