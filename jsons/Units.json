@@ -7,4 +7,18 @@
 		"uniques": ["Can build [Water] improvements on tiles","Can enter ice tiles","Can build [Remove Ice] improvements on tiles"],
 		"cost": 70
 	},
-  ]
+	{
+		"name": "Cossacks",
+		"unitType": "Gunpowder",
+		"replaces": "Musketman",
+		"uniqueTo": "Ukraine",
+		"movement": 2,
+		"strength": 35,
+		"cost": 200,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"uniques": ["[+25]% Strength <when fighting in [Open terrain] tiles>"],
+		"attackSound": "shot"
+	},
+]
