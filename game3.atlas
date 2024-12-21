@@ -10,14 +10,14 @@ TileSets/HexaRealm/BuildingIcons/Sich
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Ukraine
+TileSets/HexaRealm/NationIcons/Ukraine
   rotate: false
   xy: 206, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Cossacks
+TileSets/HexaRealm/UnitIcons/Cossacks
   rotate: false
   xy: 2, 2
   size: 100, 100
