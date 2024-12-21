@@ -1,0 +1,10 @@
+ChangeLog
+
+V1.0
+First upload
+
+V1.1
+Added Warfare Aversion Level and modified click sound effects.
+
+V1.2
+Integrating Ukraine mods,
