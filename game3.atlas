@@ -3,7 +3,7 @@ size: 512,128
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
-BuildingIcons/Sich
+TileSets/HexaRealm/BuildingIcons/Sich
   rotate: false
   xy: 104, 2
   size: 100, 100
