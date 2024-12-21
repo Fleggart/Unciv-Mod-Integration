@@ -17,7 +17,7 @@ TileSets/FantasyHex/Units/Ice Breaker
   orig: 32, 32
   offset: 0, 0
   index: -1
-UnitIcons/Ice Breaker
+TileSets/HexaRealm/UnitIcons/Ice Breaker
   rotate: false
   xy: 4, 4
   size: 100, 100
