@@ -95,14 +95,14 @@ TileSets/FantasyHex/Tiles/Tobacco
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/BuildingIcons/Sich
+BuildingIcons/Sich
   rotate: false
   xy: 220, 24
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/NationIcons/Ukraine
+NationIcons/Ukraine
   rotate: false
   xy: 328, 24
   size: 100, 100
@@ -221,14 +221,14 @@ TileSets/HexaRealm/Tiles/Tobacco+Plantation
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/UnitIcons/Cossacks
+UnitIcons/Cossacks
   rotate: false
   xy: 4, 24
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/UnitIcons/Ice Breaker
+UnitIcons/Ice Breaker
   rotate: false
   xy: 112, 24
   size: 100, 100
