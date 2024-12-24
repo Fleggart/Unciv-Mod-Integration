@@ -73,4 +73,38 @@
 			"Sloviansk"
 		],
 	},
-]
+	{
+		"name": "Philippines",
+		"leaderName": "José Rizal",
+		"adjective": ["Filipino"],
+		"startBias": ["Coastal"],
+		"preferredVictoryType": "Cultural",
+		"personality": "José Rizal",
+		
+		"startIntroPart1": "Your people gaze upon you with their hearts, José Rizal, national hero of all the Philippines. For thousands of years, the glimmering islands of this land have played host to one of the largest populations in the world, and has become a veritable melting pot for a great diversity of people; fusing together the cultures of Austronesians, Malay, Chinese, Spanish, British and Americans alike. Your ideals have forever shaped the course of Filipino history, and drives through the veins of your people their will for independence. After your execution at the hands of the Spanish colonists in 1896, your adherents rose up, and declared a new nation in the pacific, founded upon the principles of your life's work, and thus for this you are eternally honoured as the first Filipino.",
+		"startIntroPart2": "O magnificent Rizal, your people call you to change their world once more. Can you defend this beautiful and tranquil homeland against all manner of foe? Can you forge a place for the Philippine Republic through peace and harmony with the world around you? Can you build a civilization that can stand the test of time?",
+		
+		"declaringWar": "Why does need to come to this? You leave us no choice!",
+		"attacked": "We we're a friendly nation up until this moment!",
+		"defeated": "You have destroyed a beautiful creation. In its place is the blood of the thousands that you have lustfully slain.",
+		"introduction": "Welcome to the Philippines, traveller! I am José Rizal, and I seek only peace, so that we might learn, in harmony, of the cultures that we both nurture.",
+		
+		"neutralHello": "Kamusta?",
+		"neutralLetsHearIt": ["I'll here you out.","You may begin.","Let's begin the discussion"],
+		"neutralNo": ["We refuse.","Cannot do that","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","Salamat"],
+
+		"hateHello": "What?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["No just because its you!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["Alright.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Let's keep this peace longer than before",
+		"tradeRequest": "We would like to offer this deal with you"
+
+		"outerColor": [255,255,255],
+		"innerColor": [250,200,0],
+        "favoredReligion": "Christianity"
+		"uniqueName": "Pearl of the Orient"
+        "uniques":["[+2 Production, +2 Gold, +2 Culture] from each Trade Route", "[+20]% [Culture] from Trade Routes"],
+		"cities": ["Manila","Cebu","Iloilo","Vigan","Davao","Batangas","Tagbilaran","Zam
