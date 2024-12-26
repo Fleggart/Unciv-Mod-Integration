@@ -1,8 +1,7 @@
 ChangeLog
 
 V1.0
-首次上传
-First upload
+整合了Ice Breaker. More Luxuries. Barbarian XP Farm. Closer Cities Distance of 1.这几个mod
 
 V1.1
 增加了厌战度和修改了点击音效。
