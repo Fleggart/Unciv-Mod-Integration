@@ -10,5 +10,5 @@ Added Warfare Aversion Level and modified click sound effects.
 
 
 V1.2
-整合了乌克兰模组
+整合了Ukraine模组
 Integrating Ukraine mods,
