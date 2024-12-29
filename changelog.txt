@@ -3,13 +3,10 @@ ChangeLog
 V1.0
 1.增加了破冰船. 可以移除冰区。
 1. Added icebreaker. Ice area can be removed.
-
 2.增加了十种奢侈品。
 2.Added ten kinds of luxury goods.
-
 3.可以从蛮族获得点1000XP。
 3.can gain thousands of XP from barbarians
-
 4.城市的最小距离为 1 格。
 4.The minimum distance between cities is 1 square.
 
