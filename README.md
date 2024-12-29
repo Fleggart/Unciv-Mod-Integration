@@ -10,4 +10,6 @@ Barbarian XP Farm
 
 Closer Cities Distance of 1
 
-Ukraine
+Ukraine mod
+
+Philippines mod
