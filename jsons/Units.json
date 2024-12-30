@@ -33,5 +33,20 @@
 		"upgradesTo": "Great War Infantry",
 		"promotions": ["Ignore terrain cost","Cover I"],
 		"attackSound": "shot"
+	},
+    {
+	    "name": "Tsar Bomba",
+		"unitType": "Atomic Bomber",
+		"movement": 1,
+		"strength": 100000000,
+		"rangedStrength": 150,
+		"range": 10,
+		"cost": 600,
+		"requiredTech": "Nuclear Fission",
+		"requiredResource": "Uranium",
+		"promotions" : ["Evasion"],
+		"uniques": ["Nuclear weapon of Strength [1]", "Only available <if [Manhattan Project] is constructed>", "Self-destructs when attacking",
+			"Blast radius [3]"],
+		"attackSound": "nuke"
 	}
 ]
