@@ -37,7 +37,7 @@
     {
 	    "name": "Tsar Bomba",
 		"unitType": "Atomic Bomber",
-		"movement": 100,
+		"movement": 1,
 		"strength": 500,
 		"rangedStrength": 150,
 		"range": 10,
@@ -45,7 +45,7 @@
 		"requiredTech": "Nuclear Fission",
 		"requiredResource": "Uranium",
 		"promotions" : ["Evasion"],
-		"uniques": ["Nuclear weapon of Strength [1]", "Only available <if [Manhattan Project] is constructed>", "Self-destructs when attacking",
+		"uniques": ["Nuclear weapon of Strength [100]", "Only available <if [Manhattan Project] is constructed>", "Self-destructs when attacking",
 			"Blast radius [3]"],
 		"attackSound": "nuke"
 	}
