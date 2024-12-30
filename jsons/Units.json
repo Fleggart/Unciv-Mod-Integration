@@ -37,8 +37,8 @@
     {
 	    "name": "Tsar Bomba",
 		"unitType": "Atomic Bomber",
-		"movement": 1,
-		"strength": 400,
+		"movement": 100,
+		"strength": 500,
 		"rangedStrength": 150,
 		"range": 10,
 		"cost": 600,
