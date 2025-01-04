@@ -1,7 +1,6 @@
 [
   {
 		"Thermonuclear"
-		"movementType": "Air",
         "uniques": ["Aircraft"]	
     },
 	{
