@@ -36,7 +36,7 @@
 	},
     {
 	    "name": "Tsar Bomba",
-		"unitType": "Atomic Bomber",
+		"unitType": "Thermonuclear",
 		"movement": 1,
 		"strength": 500,
 		"rangedStrength": 150,
