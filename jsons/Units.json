@@ -41,7 +41,7 @@
 		"strength": 500,
 		"rangedStrength": 150,
 		"range": 10,
-		"cost": 600,
+		"cost": 2000,
 		"requiredTech": "Nuclear Fission",
 		"requiredResource": "Uranium",
 		"promotions" : ["Evasion"],
