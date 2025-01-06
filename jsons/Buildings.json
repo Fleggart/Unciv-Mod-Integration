@@ -21,7 +21,7 @@
                 "uniques": ["[+25]% [Culture] [in this city]", "Can only be built <in [Capital] cities>","[+15]% Great Person generation [in this city]"]
 	},
 	{
-		"name": "Ivy Plan",
+		"name": "Hydrogen bomb research",
 		"cost": 750,
 		"isNationalWonder": true,
 		"uniques": ["Triggers a global alert upon completion", "Cannot be hurried"],
