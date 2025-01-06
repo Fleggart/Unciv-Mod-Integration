@@ -62,7 +62,7 @@
 		"tradeRequest": "We would like to offer this deal with you"
 
 		"outerColor": [255,255,255],
-		"innerColor": [250,200,0],
+		"innerColor": [168,135,5],
         "favoredReligion": "Christianity"
 		"uniqueName": "Pearl of the Orient"
         "uniques":["[+2 Production, +2 Gold, +2 Culture] from each Trade Route", "[+20]% [Culture] from Trade Routes"],
