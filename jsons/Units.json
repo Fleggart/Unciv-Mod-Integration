@@ -42,7 +42,7 @@
 		"rangedStrength": 150,
 		"range": 10,
 		"cost": 2000,
-		"requiredTech": "Nuclear Fission",
+		"requiredTech": "Nuclear Fusion",
 		"requiredResource": "Uranium",
 		"promotions" : ["Evasion"],
 		"uniques": ["Nuclear weapon of Strength [100]", "Only available <if [Hydrogen bomb research] is constructed>", "Self-destructs when attacking",
