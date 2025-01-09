@@ -1,0 +1,52 @@
+[
+	// Base terrains
+	{
+		"name": "Salt Lake",
+		"type": "TerrainFeature",
+		"culture": 2,
+		"production": 2,
+		"movementCost": 3,
+		"unbuildable": true,
+		"impassable": true,
+		"occursOn": ["Desert", "Plains"],
+		"uniques": ["Fresh water", "Rare feature",
+		"Nullifies all other stats this tile provides",
+		"Always Fertility [4] for Map Generation",
+		"Only [All Road] improvements may be built on this tile",
+		"Considered [Production] when determining start locations",
+		"Considered [Desirable] when determining start locations"]
+	},
+	{
+		"name": "Volcano",
+		"type": "TerrainFeature",
+		"production": 1,
+		"science": 1,
+		"overrideStats": true,
+		"unbuildable": true,
+		"impassable": true,
+		"occursOn": ["Desert", "Plains"],
+		"uniques": ["Rough terrain","Rare feature", 
+		"Never receives any resources",
+	    "Tile provides yield without assigned population",
+		"Units ending their turn on this terrain take [70] damage",
+		"Blocks line-of-sight from tiles at same elevation",
+		"Has an elevation of [3] for visibility calculations",
+		"Nullifies all other stats this tile provides"],
+		"civilopediaText": [{"text":"The plains, deserts, grasslands and tundras without other landforms near the volcano will become volcanic soil", "link":"Terrain/Volcanic Soil"}]
+    },
+    {
+        "name": "Volcanic Soil",
+		"type": "TerrainFeature",
+		"food": 1,
+		"production": -1,
+		"overrideStats": true,
+		"unbuildable": true,
+		"defenceBonus": -0.33
+		"occursOn": ["Desert", "Grassland", "Plains","Tundra"],
+		"uniques": ["Base Terrain on this tile is not counted for Region determination",
+	    "Units ending their turn on this terrain take [20] damage",
+		"Doesn't generate naturally",
+		"Never receives any resources"]
+		"civilopediaText": [{"text":"Only generated around the volcano", "link":"Terrain/Volcano"}]
+    },
+]
