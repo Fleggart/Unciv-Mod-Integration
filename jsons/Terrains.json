@@ -9,7 +9,7 @@
 		"unbuildable": true,
 		"impassable": true,
 		"occursOn": ["Desert", "Plains"],
-		"uniques": ["Fresh water", "Rare feature","Nullifies all other stats this tile provides","Always Fertility [4] for Map Generation","Only [All Road] improvements may be built on this tile","Considered [Production] when determining start locations","Considered [Desirable] when determining start locations"]
+		"uniques": ["Fresh water", "Rare feature", "Nullifies all other stats this tile provides", "Always Fertility [4] for Map Generation", "Only [All Road] improvements may be built on this tile", "Considered [Production] when determining start locations", "Considered [Desirable] when determining start locations"],
 	},
 	{
 		"name": "Volcano",
@@ -32,7 +32,7 @@
 		"unbuildable": true,
 		"defenceBonus": -0.33
 		"occursOn": ["Desert", "Grassland", "Plains","Tundra"],
-		"uniques": ["Base Terrain on this tile is not counted for Region determination", "Units ending their turn on this terrain take [20] damage","Doesn't generate naturally","Never receives any resources"]
+		"uniques": ["Base Terrain on this tile is not counted for Region determination", "Units ending their turn on this terrain take [20] damage", "Doesn't generate naturally", "Never receives any resources"].
 		"civilopediaText": [{"text":"Only generated around the volcano", "link":"Terrain/Volcano"}]
     },
     {
