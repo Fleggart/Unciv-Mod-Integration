@@ -60,4 +60,15 @@
 		"occursOn": ["Tundra", "Snow", "Plains"],
 		"uniques": ["Rare feature", "Always Fertility [+4] for Map Generation",]
     }
+    {
+        "name": "Geothermal Crevice",
+		"type": "TerrainFeature",
+		"science": 1,
+		"food": 2,
+		"movementCost": 1,
+		"overrideStats": true,
+		"unbuildable": false,
+		"occursOn": ["Tundra","Grassland","Snow"],
+		"uniques": ["Rare feature", "Never receives any resources"]
+    }
 ]
