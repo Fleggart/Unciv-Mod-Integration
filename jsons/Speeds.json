@@ -1,0 +1,53 @@
+[
+    {
+        "name": "TopSpeed",
+        "modifier": 0.5,
+        "productionCostModifier": 0.5,
+        "goldCostModifier": 0.5,
+        "scienceCostModifier": 0.5,
+        "cultureCostModifier": 0.5,
+        "faithCostModifier": 0.5,
+        "improvementBuildLengthModifier": 0.5,
+        "barbarianModifier": 0.5,
+        "goldGiftModifier": 1.5,
+        "cityStateTributeScalingInterval": 3.0,
+        "goldenAgeLengthModifier": 0.67,
+        "religiousPressureAdjacentCity": 12,
+        "peaceDealDuration": 5,
+        "dealDuration": 15,
+        "startYear": -4000,
+        "turns": [{"yearsPerTurn": 80, "untilTurn":  50},{"yearsPerTurn": 60, "untilTurn":  80},{"yearsPerTurn": 40, "untilTurn": 100},{"yearsPerTurn": 30, "untilTurn": 130},{"yearsPerTurn": 20, "untilTurn": 155},{"yearsPerTurn": 10, "untilTurn": 195},{"yearsPerTurn":  5, "untilTurn": 260},{"yearsPerTurn":  1, "untilTurn": 330}]
+    }
+    {
+        "name": "Real",
+        "modifier": 5.0,
+        "productionCostModifier": 1.0,
+        "goldCostModifier": 1.0,
+        "scienceCostModifier": 5.0,
+        "cultureCostModifier": 5.0,
+        "faithCostModifier": 5.0,
+        "improvementBuildLengthModifier": 1.0,
+        "barbarianModifier": 1.0,
+        "goldGiftModifier": 0.67,
+        "cityStateTributeScalingInterval": 32.0,
+        "goldenAgeLengthModifier": 3.0,
+        "religiousPressureAdjacentCity": 2,
+        "peaceDealDuration": 30,
+        "dealDuration": 90,
+        "startYear": -4000,
+        "turns": [{"yearsPerTurn":   1,     "untilTurn":  10000},]
+
+
+
+
+
+
+
+
+
+
+
+
+
+    }
+]
