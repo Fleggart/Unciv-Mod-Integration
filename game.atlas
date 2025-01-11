@@ -6,336 +6,364 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Sich
   rotate: false
-  xy: 1128, 1512
+  xy: 820, 904
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Philippines
   rotate: false
-  xy: 524, 1512
+  xy: 1128, 1520
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Ukraine
   rotate: false
-  xy: 4, 68
+  xy: 1748, 1820
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Amber
   rotate: false
-  xy: 4, 1100
+  xy: 4, 1108
   size: 400, 400
   orig: 400, 400
   offset: 0, 0
   index: -1
 ResourceIcons/Coffee
   rotate: false
-  xy: 524, 1620
+  xy: 524, 1628
   size: 400, 400
   orig: 400, 400
   offset: 0, 0
   index: -1
 ResourceIcons/Coral
   rotate: false
-  xy: 4, 692
+  xy: 4, 700
   size: 400, 400
   orig: 400, 400
   offset: 0, 0
   index: -1
 ResourceIcons/Glass
   rotate: false
-  xy: 932, 1620
+  xy: 932, 1628
   size: 400, 400
   orig: 400, 400
   offset: 0, 0
   index: -1
 ResourceIcons/Jade
   rotate: false
-  xy: 4, 284
+  xy: 4, 292
   size: 400, 400
   orig: 400, 400
   offset: 0, 0
   index: -1
 ResourceIcons/Lapis Lazuli
   rotate: false
-  xy: 4, 1508
+  xy: 4, 1516
   size: 512, 512
   orig: 512, 512
   offset: 0, 0
   index: -1
 ResourceIcons/Olives
   rotate: false
-  xy: 1340, 1620
+  xy: 1340, 1628
   size: 400, 400
   orig: 400, 400
   offset: 0, 0
   index: -1
 ResourceIcons/Perfume
   rotate: false
-  xy: 412, 1100
+  xy: 412, 1108
   size: 400, 400
   orig: 400, 400
   offset: 0, 0
   index: -1
 ResourceIcons/Tea
   rotate: false
-  xy: 412, 692
+  xy: 412, 700
   size: 400, 400
   orig: 400, 400
   offset: 0, 0
   index: -1
 ResourceIcons/Tobacco
   rotate: false
-  xy: 412, 284
+  xy: 412, 292
   size: 400, 400
   orig: 400, 400
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Ice Breaker
   rotate: false
-  xy: 820, 832
+  xy: 400, 228
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Amber
   rotate: false
-  xy: 1856, 1928
+  xy: 632, 1528
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Coast+Coral+Fishing Boats
   rotate: false
-  xy: 632, 1518
+  xy: 1236, 1526
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Coral+Fishing Boats
   rotate: false
-  xy: 632, 1518
+  xy: 1236, 1526
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Coffee
   rotate: false
-  xy: 1236, 1518
+  xy: 928, 910
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Coral
   rotate: false
-  xy: 928, 902
+  xy: 400, 190
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Ice Breaker
   rotate: false
-  xy: 112, 116
+  xy: 2006, 1996
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Jade
   rotate: false
-  xy: 184, 184
+  xy: 776, 1592
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Lapis Lazuli
   rotate: false
-  xy: 256, 248
+  xy: 1380, 1592
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Olives
   rotate: false
-  xy: 1748, 1750
+  xy: 820, 734
   size: 32, 34
   orig: 32, 34
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Perfume
   rotate: false
-  xy: 2000, 1986
+  xy: 1072, 970
   size: 32, 34
   orig: 32, 34
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Tea
   rotate: false
-  xy: 776, 1584
+  xy: 292, 20
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Tobacco
   rotate: false
-  xy: 1128, 1348
+  xy: 544, 256
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Amber
   rotate: false
-  xy: 112, 220
+  xy: 632, 1564
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Tiles/Black Earth
+  rotate: false
+  xy: 1856, 1958
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Tiles/Coffee
   rotate: false
-  xy: 1748, 1856
+  xy: 1128, 1456
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Coffee+Plantation
   rotate: false
-  xy: 1856, 1964
+  xy: 1236, 1564
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Coral
   rotate: false
-  xy: 632, 1556
+  xy: 820, 840
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Coral+Fishing Boats
   rotate: false
-  xy: 1128, 1448
+  xy: 928, 948
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Coral+Fishing Boats-Industrial era
   rotate: false
-  xy: 1236, 1556
+  xy: 292, 120
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Tiles/Geothermal Crevice
+  rotate: false
+  xy: 4, 4
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Tiles/Jade
   rotate: false
-  xy: 928, 940
+  xy: 1748, 1756
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Lapis Lazuli
   rotate: false
-  xy: 4, 4
+  xy: 1856, 1894
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Mudflat
+  rotate: false
+  xy: 1934, 1972
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Olives
   rotate: false
-  xy: 112, 156
+  xy: 704, 1564
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Olives+Plantation
   rotate: false
-  xy: 184, 220
+  xy: 1128, 1392
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Perfume
   rotate: false
-  xy: 1748, 1792
+  xy: 1308, 1564
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Perfume+Plantation
   rotate: false
-  xy: 1928, 1964
+  xy: 820, 776
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Reef
+  rotate: false
+  xy: 1000, 948
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Salt Lake
   rotate: false
-  xy: 704, 1556
+  xy: 292, 56
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Tea
   rotate: false
-  xy: 1128, 1384
+  xy: 472, 228
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Tea+Plantation
   rotate: false
-  xy: 1308, 1556
+  xy: 1748, 1692
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Tobacco
   rotate: false
-  xy: 820, 768
+  xy: 1856, 1830
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Tobacco+Plantation
   rotate: false
-  xy: 1000, 940
+  xy: 1128, 1328
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Volcanic Soil
   rotate: false
-  xy: 820, 1312
+  xy: 820, 1320
   size: 300, 300
   orig: 300, 300
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Volcano
   rotate: false
-  xy: 820, 1004
+  xy: 820, 1012
   size: 300, 300
   orig: 300, 300
   offset: 0, 0
   index: -1
 UnitIcons/Cossacks
   rotate: false
-  xy: 4, 176
+  xy: 1748, 1928
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Ice Breaker
   rotate: false
-  xy: 1748, 1920
+  xy: 524, 1520
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Tsar Bomba
   rotate: false
-  xy: 820, 896
+  xy: 292, 184
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
