@@ -44,4 +44,20 @@
 		"movementCost": 4,
 		"uniques": ["Rough terrain", "Rare feature", "Always Fertility [+4] for Map Generation","Has an elevation of [1] for visibility calculations","Occurs in chains at high elevations","Units ending their turn on this terrain take [50] damage",]
     },
+    {
+        "name": "Mudflat",
+		"type": "TerrainFeature",
+		"food": 1,
+		"gold": 1,
+		"movementCost": 1,
+		"defenceBonus": -0.1,
+		"occursOn": ["Coast"],
+		"uniques": ["Fresh water", "Rare feature"]
+    }
+    {
+        "name": "Black Earth",
+		"type": "TerrainFeature",
+		"occursOn": ["Tundra", "Snow", "Plains"],
+		"uniques": ["Rare feature", "Always Fertility [+4] for Map Generation",]
+    }
 ]
