@@ -82,12 +82,6 @@
 		"gold": 2,
 		"uniques": ["Can only be created by Mercantile City-States"]
     },
-    {
-	    "name": "Electricity",
-		"production":1,
-		"resourceType": "Strategic",
-		"revealedBy": "Electricity,	
-	},
 	{
     	"name": "Warfare Aversion Level",  
 		"resourceType": "Strategic",
