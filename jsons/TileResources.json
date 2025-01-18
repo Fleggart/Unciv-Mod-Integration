@@ -83,7 +83,7 @@
 		"uniques": ["Can only be created by Mercantile City-States"]
     },
     {
-        "name": "Electricity",
+        "name": "electric power",
 		"production":1,
 		"resourceType": "Strategic",
 		"revealedBy": "Electricity",
