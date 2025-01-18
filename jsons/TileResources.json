@@ -86,7 +86,7 @@
         "name": "Electricity",
 		"production":1,
 		"resourceType": "Strategic",
-		"revealedBy": "电学",
+		"revealedBy": "Electricity",
 	}
 	{
     	"name": "Warfare Aversion Level",  
