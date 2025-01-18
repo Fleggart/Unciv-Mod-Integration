@@ -81,7 +81,13 @@
 		"resourceType": "Luxury",
 		"gold": 2,
 		"uniques": ["Can only be created by Mercantile City-States"]
-	//厌战度
+    }
+    {
+	     "name": "Electricity",
+		"production":1,
+		"resourceType": "Strategic",
+		"revealedBy": "Electricity,
+		
 	},
 	{
     	"name": "Warfare Aversion Level",  
