@@ -4,10 +4,4 @@
 		"movementType": "Air",
         "uniques": ["Aircraft"]	
     },
-	{
-		"name": "g",
-	},
-	{
-	    "name": "h",
-	},
 ]
