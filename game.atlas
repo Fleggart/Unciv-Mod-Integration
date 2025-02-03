@@ -46,13 +46,6 @@ ResourceIcons/Coral
   orig: 400, 400
   offset: 0, 0
   index: -1
-ResourceIcons/Electricity
-  rotate: false
-  xy: 292, 4
-  size: 50, 60
-  orig: 50, 60
-  offset: 0, 0
-  index: -1
 ResourceIcons/Glass
   rotate: false
   xy: 932, 1644
@@ -107,6 +100,13 @@ ResourceIcons/Warfare Aversion Level
   xy: 1748, 1884
   size: 160, 160
   orig: 160, 160
+  offset: 0, 0
+  index: -1
+ResourceIcons/electric power
+  rotate: false
+  xy: 292, 4
+  size: 50, 60
+  orig: 50, 60
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Ice Breaker
