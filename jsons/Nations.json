@@ -18,11 +18,7 @@
 		"innerColor": [255,255,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Fertile Lands",
-		"uniques": ["Double quantity of [Wheat] produced",
-			    "Double quantity of [Iron] produced",
-			    "Double quantity of [Coal] produced",
-			    "Double quantity of [Horses] produced"
-			   ],
+		"uniques": ["Double quantity of [Wheat] produced","Double quantity of [Iron] produced","Double quantity of [Coal] produced","Double quantity of [Horses] produced","[-5]% Strength <for [Military] units> <vs [Romanum Orientalis] units> <after founding a religion> <before enhancing a religion>", "[-10]% Strength <for [Military] units> <vs [Romanum Orientalis] units> <after enhancing a religion>"],
 		"cities": ["Kyiv","Kharkiv","Dnipro","Odesa","Donetsk","Zaporizhia","Lviv","Kryvyi Rih","Mykolaiv","Mariupol","Luhansk","Makiivka","Simferopol","Vinnytsia","Sevastopol","Kherson","Poltava","Chernihiv","Cherkasy","Sumy","Horlivka","Zhytomyr","Kamyanske","Kropyvnytsky","Chernivtsi","Khmelnytskyi","Rivne","Ivano-Frankivsk","Ternopil","Kremenchuk","Lutsk","Bila Tserkva","Kramatorsk","Melitopol","Kerch","Nikopol","Lysychansk","Berdyansk","Pavlohrad","Sloviansk"],
 	},
 	{
@@ -50,15 +46,15 @@
 		"tradeRequest": "We would like to offer this deal with you"
 		"outerColor": [255,255,255],
 		"innerColor": [168,135,5],
-                "favoredReligion": "Christianity"
+        "favoredReligion": "Christianity"
 		"uniqueName": "Pearl of the Orient"
-                "uniques":["[+2 Production, +2 Gold, +2 Culture] from each Trade Route", "[+20]% [Culture] from Trade Routes"],
+        "uniques":["[+2 Production, +2 Gold, +2 Culture] from each Trade Route", "[+20]% [Culture] from Trade Routes","[-5]% Strength <for [Military] units> <vs [Romanum Orientalis] units> <after founding a religion> <before enhancing a religion>", "[-10]% Strength <for [Military] units> <vs [Romanum Orientalis] units> <after enhancing a religion>],
 		"cities": ["Manila","Cebu","Iloilo","Vigan","Davao","Batangas","Tagbilaran","Zamboanga","Bacolod","Tuguegarao","Tarlac","Kalibo","Lucena","Antique","Naga","Dagupan","Baguio","Makati","Quezon City","Pasig","Cagayan de Oro","Dumaguete","Taguig","Las Piñas","Mandaluyong","Marikina","Parañaque","Pasay","San Fernando","Santiago","Tacloban","Cotabato","General Santos","Bohol","Palawan","Taytay","Ormoc","Laoag","Olongapo","Iligan","Bacolod","Cabanatuan","Angeles","Bataan","Sorsogon","Baler","Batac","Butuan","Legazpi","Surigao","Zambales","Roxas","Talisay","Malolos","Baguio","Cebu City","Tarlac City","Zamboanga City","Iloilo City","Naga City","Tacloban City","Davao City","Marawi","General Santos City","Santiago City","Tagum"],
-                "spyNames": ["Santos","Cruz","Gomez","Diaz","Reyes","Garcia","Martinez","Lopez","Rodriguez","Perez","Castro","Morales","Alvarez","Fernandez","Rivera","Navarro","Ramos","Bautista","Mendoza","Jimenez","Salazar","Aquino","Villar","Torres","Suarez","Serrano","Santiago","Ferrer","Garcia","DeLaCruz","DelosSantos","Cabrera","Benitez"]
+        "spyNames": ["Santos","Cruz","Gomez","Diaz","Reyes","Garcia","Martinez","Lopez","Rodriguez","Perez","Castro","Morales","Alvarez","Fernandez","Rivera","Navarro","Ramos","Bautista","Mendoza","Jimenez","Salazar","Aquino","Villar","Torres","Suarez","Serrano","Santiago","Ferrer","Garcia","DeLaCruz","DelosSantos","Cabrera","Benitez"]
 	}
 	{
-          	"name": "Imperium Romanum Orientalis",
-		"personality": "Imperium Romanum Orientalis",
+        "name": "Romanum Orientalis",
+		"personality": "Romanum Orientalis",
 		"adjective": ["Byzantine"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
@@ -74,12 +70,12 @@
 		"innerColor": [61, 0, 109],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Patriarchate of Constantinople",
-		"uniqueText": "May choose 1 additional ☮belief(s) of any type when founding a ☮religion\nMajor Nation's Military units -5% / -10% †Strength after their Nations founding / enhancing a ☮religion when fighting with Eastern Roman units",
+		"uniqueText": "May choose 1 additional ☮belief(s) of any type when founding a ☮religion\nMajor Nation's Military units -5% / -10% †Strength after their Nations founding / enhancing a ☮religion when fighting with Romanum Orientalis units",
 		"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion"]
-	        "cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
+	    "cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
 		"Ani", "Dyrrachium", "Edessa", "Chalcedon", "Naissus", "Bari", "Iconium", "Prilep", "Samosata", "Kars", "Nicopolis", "Theodosiopolis",
 		"Tyana", "Gaza", "Kerkyra", "Phoenice", "Selymbria", "Sillyon", "Chrysopolis", "Vodena", "Caesarea", "Traianoupoli", "Constantia", "Athens",
 		"Patra", "Korinthos"],
-                "spyNames": ["Basil", "Nikophoros", "Demetrios", "Philippos", "Theophylaktos", "Simonis", "Zoe", "Ioanno", "Xene", "Euphrosyne"]
+        "spyNames": ["Basil", "Nikophoros", "Demetrios", "Philippos", "Theophylaktos", "Simonis", "Zoe", "Ioanno", "Xene", "Euphrosyne"]
 	}
 ]
