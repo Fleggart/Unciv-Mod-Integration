@@ -58,7 +58,7 @@
 	}
 	{
           	"name": "Imperium Romanum Orientalis",
-		"personality": "Imperium Romanum Orientale",
+		"personality": "Imperium Romanum Orientalis",
 		"adjective": ["Byzantine"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
