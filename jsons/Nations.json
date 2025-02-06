@@ -3,27 +3,20 @@
 		"name": "Ukraine",
 		"leaderName": "Ivan Sirko",
 		"adjective": ["Ukrainian"],
-		
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Domination",
-		
 		"startIntroPart1": "Hail to you, o great hetman Ivan Sirko. Ukraine is one of the successors of the medieval realm of Kyivan Rus. As such, Ukraine has a claim to the lands of the Rus alongside Russia. This has brought Ukraine and Russia conflict against each other on who leads Kyiv. Ukraine is led by Ivan Sirko and his Cossack hosts.",
 		"startIntroPart2": "Lord Hetman, the Cossacks look to you to lead them into freedom and greatness. Will you wrest the Rus away from the Muscovite pretenders? Can you build a civilization that will stand the test of time?",
-		
 		"declaringWar": "Your lands will soon be mine, prepare for war!",
 		"attacked": "Have you declared war on us? This was a huge mistake on your part, prepare to be destroyed!",
 		"defeated": "You have destroyed our once great civilization. History will not look kindly upon you.",
 		"introduction": "Greetings, stranger! I am Ivan Sirko, Ataman of Zaporizhian Cossacks. Gaze in awe on the majesty that is our great civilization!",
-		
 		"neutralHello": "Hello!",
 		"hateHello": "You again! What did you want?",
 		"tradeRequest": "Well, how is my proposal to you?",
-		
 		"outerColor": [0,0,255],
 		"innerColor": [255,255,0],
-		
 		"favoredReligion": "Christianity",
-		
 		"uniqueName": "Fertile Lands",
 		"uniques": ["Double quantity of [Wheat] produced",
 			    "Double quantity of [Iron] produced",
@@ -39,38 +32,32 @@
 		"startBias": ["Coastal"],
 		"preferredVictoryType": "Cultural",
 		"personality": "José Rizal",
-		
 		"startIntroPart1": "Your people gaze upon you with their hearts, José Rizal, national hero of all the Philippines. For thousands of years, the glimmering islands of this land have played host to one of the largest populations in the world, and has become a veritable melting pot for a great diversity of people; fusing together the cultures of Austronesians, Malay, Chinese, Spanish, British and Americans alike. Your ideals have forever shaped the course of Filipino history, and drives through the veins of your people their will for independence. After your execution at the hands of the Spanish colonists in 1896, your adherents rose up, and declared a new nation in the pacific, founded upon the principles of your life's work, and thus for this you are eternally honoured as the first Filipino.",
 		"startIntroPart2": "O magnificent Rizal, your people call you to change their world once more. Can you defend this beautiful and tranquil homeland against all manner of foe? Can you forge a place for the Philippine Republic through peace and harmony with the world around you? Can you build a civilization that can stand the test of time?",
-		
 		"declaringWar": "Why does need to come to this? You leave us no choice!",
 		"attacked": "We we're a friendly nation up until this moment!",
 		"defeated": "You have destroyed a beautiful creation. In its place is the blood of the thousands that you have lustfully slain.",
 		"introduction": "Welcome to the Philippines, traveller! I am José Rizal, and I seek only peace, so that we might learn, in harmony, of the cultures that we both nurture.",
-		
 		"neutralHello": "Kamusta?",
 		"neutralLetsHearIt": ["I'll here you out.","You may begin.","Let's begin the discussion"],
 		"neutralNo": ["We refuse.","Cannot do that","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","Salamat"],
-
 		"hateHello": "What?",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
 		"hateNo": ["No just because its you!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["Alright.","That is good enough.","Very well..."],
-		
 		"afterPeace": "Let's keep this peace longer than before",
 		"tradeRequest": "We would like to offer this deal with you"
-
 		"outerColor": [255,255,255],
 		"innerColor": [168,135,5],
-        "favoredReligion": "Christianity"
+                "favoredReligion": "Christianity"
 		"uniqueName": "Pearl of the Orient"
-        "uniques":["[+2 Production, +2 Gold, +2 Culture] from each Trade Route", "[+20]% [Culture] from Trade Routes"],
+                "uniques":["[+2 Production, +2 Gold, +2 Culture] from each Trade Route", "[+20]% [Culture] from Trade Routes"],
 		"cities": ["Manila","Cebu","Iloilo","Vigan","Davao","Batangas","Tagbilaran","Zamboanga","Bacolod","Tuguegarao","Tarlac","Kalibo","Lucena","Antique","Naga","Dagupan","Baguio","Makati","Quezon City","Pasig","Cagayan de Oro","Dumaguete","Taguig","Las Piñas","Mandaluyong","Marikina","Parañaque","Pasay","San Fernando","Santiago","Tacloban","Cotabato","General Santos","Bohol","Palawan","Taytay","Ormoc","Laoag","Olongapo","Iligan","Bacolod","Cabanatuan","Angeles","Bataan","Sorsogon","Baler","Batac","Butuan","Legazpi","Surigao","Zambales","Roxas","Talisay","Malolos","Baguio","Cebu City","Tarlac City","Zamboanga City","Iloilo City","Naga City","Tacloban City","Davao City","Marawi","General Santos City","Santiago City","Tagum"],
-        "spyNames": ["Santos","Cruz","Gomez","Diaz","Reyes","Garcia","Martinez","Lopez","Rodriguez","Perez","Castro","Morales","Alvarez","Fernandez","Rivera","Navarro","Ramos","Bautista","Mendoza","Jimenez","Salazar","Aquino","Villar","Torres","Suarez","Serrano","Santiago","Ferrer","Garcia","DeLaCruz","DelosSantos","Cabrera","Benitez"]
+                "spyNames": ["Santos","Cruz","Gomez","Diaz","Reyes","Garcia","Martinez","Lopez","Rodriguez","Perez","Castro","Morales","Alvarez","Fernandez","Rivera","Navarro","Ramos","Bautista","Mendoza","Jimenez","Salazar","Aquino","Villar","Torres","Suarez","Serrano","Santiago","Ferrer","Garcia","DeLaCruz","DelosSantos","Cabrera","Benitez"]
 	}
 	{
-    	"name": "Imperium Romanum Orientale",
+          	"name": "Imperium Romanum Orientalis",
 		"personality": "Imperium Romanum Orientale",
 		"adjective": ["Byzantine"],
 		"startBias": ["Coast"],
@@ -79,12 +66,9 @@
 		"declaringWar": "Your behavior has angered me. I declare a just war against you",
 		"attacked": "How dare you attack me! My sword will be the only thing waiting for you, and you will return with nothing",
 		"defeated": "Although I failed, I will come back one day. I hope you can treat my people well",
-		
 		"introduction": "I welcome you very much, dear stranger, do you need to sit down and talk?",
-		
 		"neutralHello": "Greetings!",
 		"hateHello": "What?",
-		
 		"tradeRequest": "I will provide enough goods to impress you, and I hope the goods you provide will also impress me",
 		"outerColor": [114, 162, 233],
 		"innerColor": [61, 0, 109],
@@ -92,10 +76,10 @@
 		"uniqueName": "Patriarchate of Constantinople",
 		"uniqueText": "May choose 1 additional ☮belief(s) of any type when founding a ☮religion\nMajor Nation's Military units -5% / -10% †Strength after their Nations founding / enhancing a ☮religion when fighting with Eastern Roman units",
 		"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion"]
-	    "cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
+	        "cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
 		"Ani", "Dyrrachium", "Edessa", "Chalcedon", "Naissus", "Bari", "Iconium", "Prilep", "Samosata", "Kars", "Nicopolis", "Theodosiopolis",
 		"Tyana", "Gaza", "Kerkyra", "Phoenice", "Selymbria", "Sillyon", "Chrysopolis", "Vodena", "Caesarea", "Traianoupoli", "Constantia", "Athens",
 		"Patra", "Korinthos"],
-        "spyNames": ["Basil", "Nikophoros", "Demetrios", "Philippos", "Theophylaktos", "Simonis", "Zoe", "Ioanno", "Xene", "Euphrosyne"]
+                "spyNames": ["Basil", "Nikophoros", "Demetrios", "Philippos", "Theophylaktos", "Simonis", "Zoe", "Ioanno", "Xene", "Euphrosyne"]
 	}
 ]
