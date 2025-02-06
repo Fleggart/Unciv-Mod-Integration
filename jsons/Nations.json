@@ -70,8 +70,8 @@
         "spyNames": ["Santos","Cruz","Gomez","Diaz","Reyes","Garcia","Martinez","Lopez","Rodriguez","Perez","Castro","Morales","Alvarez","Fernandez","Rivera","Navarro","Ramos","Bautista","Mendoza","Jimenez","Salazar","Aquino","Villar","Torres","Suarez","Serrano","Santiago","Ferrer","Garcia","DeLaCruz","DelosSantos","Cabrera","Benitez"]
 	}
 	{
-    	"name": "Eastern Roman",
-		"personality": "Eastern Roman",
+    	"name": "Imperium Romanum Orientale",
+		"personality": "Imperium Romanum Orientale",
 		"adjective": ["Byzantine"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
