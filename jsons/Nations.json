@@ -69,4 +69,33 @@
 		"cities": ["Manila","Cebu","Iloilo","Vigan","Davao","Batangas","Tagbilaran","Zamboanga","Bacolod","Tuguegarao","Tarlac","Kalibo","Lucena","Antique","Naga","Dagupan","Baguio","Makati","Quezon City","Pasig","Cagayan de Oro","Dumaguete","Taguig","Las Piñas","Mandaluyong","Marikina","Parañaque","Pasay","San Fernando","Santiago","Tacloban","Cotabato","General Santos","Bohol","Palawan","Taytay","Ormoc","Laoag","Olongapo","Iligan","Bacolod","Cabanatuan","Angeles","Bataan","Sorsogon","Baler","Batac","Butuan","Legazpi","Surigao","Zambales","Roxas","Talisay","Malolos","Baguio","Cebu City","Tarlac City","Zamboanga City","Iloilo City","Naga City","Tacloban City","Davao City","Marawi","General Santos City","Santiago City","Tagum"],
         "spyNames": ["Santos","Cruz","Gomez","Diaz","Reyes","Garcia","Martinez","Lopez","Rodriguez","Perez","Castro","Morales","Alvarez","Fernandez","Rivera","Navarro","Ramos","Bautista","Mendoza","Jimenez","Salazar","Aquino","Villar","Torres","Suarez","Serrano","Santiago","Ferrer","Garcia","DeLaCruz","DelosSantos","Cabrera","Benitez"]
 	}
+	{
+    	"name": "Eastern Roman",
+		"personality": "Eastern Roman",
+		"adjective": ["Byzantine"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "Let's begin!",
+		"declaringWar": "Your behavior has angered me. I declare a just war against you",
+		"attacked": "How dare you attack me! My sword will be the only thing waiting for you, and you will return with nothing",
+		"defeated": "Although I failed, I will come back one day. I hope you can treat my people well",
+		
+		"introduction": "I welcome you very much, dear stranger, do you need to sit down and talk?",
+		
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+		
+		"tradeRequest": "I will provide enough goods to impress you, and I hope the goods you provide will also impress me",
+		"outerColor": [114, 162, 233],
+		"innerColor": [61, 0, 109],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Patriarchate of Constantinople",
+		"uniqueText": "May choose 1 additional ☮belief(s) of any type when founding a ☮religion\nMajor Nation's Military units -5% / -10% †Strength after their Nations founding / enhancing a ☮religion when fighting with Eastern Roman units",
+		"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion"]
+	    "cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
+		"Ani", "Dyrrachium", "Edessa", "Chalcedon", "Naissus", "Bari", "Iconium", "Prilep", "Samosata", "Kars", "Nicopolis", "Theodosiopolis",
+		"Tyana", "Gaza", "Kerkyra", "Phoenice", "Selymbria", "Sillyon", "Chrysopolis", "Vodena", "Caesarea", "Traianoupoli", "Constantia", "Athens",
+		"Patra", "Korinthos"],
+        "spyNames": ["Basil", "Nikophoros", "Demetrios", "Philippos", "Theophylaktos", "Simonis", "Zoe", "Ioanno", "Xene", "Euphrosyne"]
+	}
 ]
