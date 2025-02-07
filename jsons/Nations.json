@@ -17,7 +17,7 @@
 		"innerColor": [255,255,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Fertile Lands",
-		"uniques": ["Double quantity of [Wheat] produced","Double quantity of [Iron] produced","Double quantity of [Coal] produced","Double quantity of [Horses] produced","[-5]% Strength <for [Military] units> <vs [Romanum Orientalis] units> <after founding a religion> <before enhancing a religion>", "[-10]% Strength <for [Military] units> <vs [Romanum Orientalis] units> <after enhancing a religion>"],
+		"uniques": ["Double quantity of [Wheat] produced","Double quantity of [Iron] produced","Double quantity of [Coal] produced","Double quantity of [Horses] produced","[-5]% Strength <for [Military] units> <vs [Romanum Orientalis] units> <after founding a religion> <before enhancing a religion> <hidden from users>", "[-10]% Strength <for [Military] units> <vs [Romanum Orientalis] units> <after enhancing a religion> <hidden from users>"],
 		"cities": ["Kyiv","Kharkiv","Dnipro","Odesa","Donetsk","Zaporizhia","Lviv","Kryvyi Rih","Mykolaiv","Mariupol","Luhansk","Makiivka","Simferopol","Vinnytsia","Sevastopol","Kherson","Poltava","Chernihiv","Cherkasy","Sumy","Horlivka","Zhytomyr","Kamyanske","Kropyvnytsky","Chernivtsi","Khmelnytskyi","Rivne","Ivano-Frankivsk","Ternopil","Kremenchuk","Lutsk","Bila Tserkva","Kramatorsk","Melitopol","Kerch","Nikopol","Lysychansk","Berdyansk","Pavlohrad","Sloviansk"],
 	},
 	{
