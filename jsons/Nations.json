@@ -1,7 +1,6 @@
 [
 	{
-		"name": "Ukraine",
-		"leaderName": "Ivan Sirko",
+		"name": "Ukraine"
 		"adjective": ["Ukrainian"],
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Domination",
@@ -23,7 +22,6 @@
 	},
 	{
 		"name": "Philippines",
-		"leaderName": "José Rizal",
 		"adjective": ["Filipino"],
 		"startBias": ["Coastal"],
 		"preferredVictoryType": "Cultural",
