@@ -5,7 +5,6 @@
 		"maxXPfromBarbarians": 10000,
 		"minimalCityDistance": 1,
         "minimalCityDistanceOnDifferentContinents": 1
-	"cityExpandRange": 100
 	}
 	"uniques": [
         "Can trade civilization introductions for [100] Gold", 
